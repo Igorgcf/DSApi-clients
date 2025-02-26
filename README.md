@@ -44,9 +44,9 @@ git clone https://github.com/IgorTecnologia/dev-superior-api-clients.git
 
 Download these files and import them into your Postman to use the ready-made HTTP methods along with the already configured environment variables, to perform the requests/responses
 
-[Download Collections](https://github.com/IgorTecnologia/dev-superior-api-clients/blob/docs-postman/Api-client-Collection.json)
+[Download Collections](https://github.com/Igorgcf/DSApi-clients/blob/docs-postman/Api-client-Collection.json)
 
-[Download Environment variables](https://github.com/IgorTecnologia/dev-superior-api-clients/blob/docs-postman/Local-host-environment.json)
+[Download Environment variables](https://github.com/Igorgcf/DSApi-clients/blob/docs-postman/Local-host-environment.json)
 
 ## API Endpoints
 The API provides the following endpoints:
